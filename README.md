@@ -3,21 +3,21 @@
 ## 🧰 Languages and Tools  
 
 <p align="center">  
-  <img alt="Java" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/java.gif" height="70"/>  
-  <img alt="C#" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/csharp.svg" height="70"/>  
-  <img alt="Python" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/python.gif" height="70"/>  
-  <img alt="Node.js" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/nodejs.gif" height="70"/>  
-  <img alt="PHP" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/php.svg" height="70"/>  
-  <img alt="React" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/react.gif" height="70"/>  
-  <img alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="70"/>  
-  <img alt="HTML5" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/html.gif" height="70"/>  
-  <img alt="CSS3" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/css.gif" height="70"/>  
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/javascript.gif" height="70"/>  
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="70"/>  
-  <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="70"/>  
-  <img alt="Linux" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/linux.gif" height="70"/>  
-  <img alt="AWS" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/aws.gif" height="70"/>  
-  <img alt="Google Cloud" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/google_cloud.gif" height="70"/>  
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010"/>  
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010"/>  
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>  
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white&labelColor=101010"/>  
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010"/>  
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010"/>  
+  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010"/>  
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010"/>  
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010"/>  
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010"/>  
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010"/>  
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=101010"/>  
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=101010"/>  
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010"/>  
+  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010"/>  
 </p>  
 
 ---
@@ -25,17 +25,15 @@
 ## 🎓 Certifications  
 
 <p align="center">  
-  <img src="certificates/cloud.gif" alt="AWS Academy Cloud Foundations" width="320px" style="margin: 15px;"/>  
-  <img src="certificates/azure.gif" alt="Azure Certification" width="320px" style="margin: 15px;"/>  
-  <img src="certificates/microsoft.gif" alt="Microsoft SC-900" width="320px" style="margin: 15px;"/>  
-  <img src="certificates/backend.gif" alt="Google Backend Developer" width="320px" style="margin: 15px;"/>  
-  <img src="certificates/java.gif" alt="Java Certification" width="320px" style="margin: 15px;"/>  
-  <img src="certificates/fortinet.gif" alt="Fortinet NSE 1-4" width="320px" style="margin: 15px;"/>  
+  <img src="certificates/cloud.png" alt="AWS Academy Cloud Foundations" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/azure.png" alt="Azure Certification" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/microsoft.png" alt="Microsoft SC-900" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/backend.png" alt="Google Backend Developer" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/java.png" alt="Java Certification" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/fortinet.png" alt="Fortinet NSE 1-4" width="200px" style="margin: 15px;"/>  
 </p>  
 
- 🎖️   
-
----
+ 🎖️
 
 ## 📊 GitHub Stats  
 
