@@ -1,4 +1,3 @@
-# README.md
 # FULL STACK DEVELOPER
 
 ## 🧰 Languages and Tools  
@@ -21,32 +20,24 @@
   <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>  
 </p>
 
+---
+
 ## 🎓 Certifications  
 
-<div align="center">  
-
-<table>  
-  <tr>  
-    <td><img src="certificates/cloud.png" alt="AWS Academy Cloud Foundations" width="300px"/></td>  
-    <td><img src="certificates/azure.png" alt="AWS Technical Essentials" width="300px"/></td>  
-  </tr>  
-  <tr>  
-    <td><img src="certificates/microsoft.png" alt="Microsoft SC-900" width="300px"/></td>  
-    <td><img src="certificates/backend.png" alt="Google Backend Developer" width="300px"/></td>  
-  </tr>  
-  <tr>  
-    <td><img src="certificates/java.png" alt="Huawei Big Data" width="300px"/></td>  
-    <td><img src="certificates/fortinet.png" alt="Fortinet NSE 1-4" width="300px"/></td>  
-  </tr>  
-</table>  
-
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">  
+  <img src="certificates/cloud.png" alt="AWS Academy Cloud Foundations" width="250px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>  
+  <img src="certificates/azure.png" alt="Azure Certification" width="250px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>  
+  <img src="certificates/microsoft.png" alt="Microsoft SC-900" width="250px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>  
+  <img src="certificates/backend.png" alt="Google Backend Developer" width="250px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>  
+  <img src="certificates/java.png" alt="Java Certification" width="250px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>  
+  <img src="certificates/fortinet.png" alt="Fortinet NSE 1-4" width="250px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>  
 </div>  
 
----  
+---
 
 ## 📊 GitHub Stats  
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=MalulekeNS&show_icons=true&theme=radical" alt="GitHub Stats"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalulekeNS&layout=compact&theme=radical" alt="Top Languages"/>  
-</p>  
+</p>
