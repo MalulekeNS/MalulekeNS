@@ -25,7 +25,7 @@
 ## 💼 Professional Experience  
 
 ### 🔹 Full Stack Developer 
-- Back-End: **Java | C# | Python | PHP | Node.js | Spring Boot.**
+- Back-End:  **Java  |  C#  |  Python  |  PHP  |  Node.js  |  Spring Boot.**
 - Front-End: **HTML5 | CSS3 | JavaScript | React.js | Tailwind | Typescript | Bootstrap frameworks.**
 - Database: **SQL | PHP | MariaDB | MongoDB | PostgreSQL | Firebase.**  
 - Deploying solutions and Intergration: **Linux | AWS | GCP | Cpanel.**
@@ -40,16 +40,29 @@
   <img alt="Compliance" src="https://img.shields.io/badge/Compliance-FF5733?style=for-the-badge&logo=security&logoColor=white&labelColor=101010"/>  
 </p>  
 
-- Conducting **As-Is and To-Be Analyses** to identify operational, financial, and governance gaps.  
-- Preparing **Growth Plans, Strategic Roadmaps, and Gap Analyses** to guide institutional readiness.  
-- Leading **Market Analysis & Business Planning**, including customer segmentation, GTM strategy, and investor-facing reports.  
-- Developing **Governance & Compliance frameworks** (risk registers, board charters, and policy suites).  
-- Designing **KPI dashboards and monitoring frameworks** to measure progress across Financial, Operational, IT, Market, and Governance domains.  
-- Producing professional reports that support **funding readiness, procurement eligibility, and investor confidence**.  
+- From Companies & Clients, we gather the following documents: 
+1.  Finance / Commercial
+2.  Governance
+3.  Compliance
+4.  Operational
+5.  Technical
+6.  Legal 
+- To produce the following documentation:
+1. Business Plan
+2. As Is
+3. Growth Plan
+4. Company Strategy
+5. Market Analysis
+6. To-Be
+7. Gap Analysis
+8. Strategic Roadmap
+9. Financial Report
+10. Credit Rating Report
+- These professional reports support **funding readiness and investor confidence**.  
 
 ---
 
-### 📂 Documents Showcase  
+### 📂 Company Document Showcase  
 
 <p align="center">  
   <a href="documents/as_is_report.pdf"><img src="documents/as_is.png" alt="As-Is Report" width="200px" style="margin: 15px;"/></a>  
