@@ -25,12 +25,16 @@
 ## 🎓 Certifications  
 
 <p align="center">  
-  <img src="certificates/cloud.png" alt="AWS Academy Cloud Foundations" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/cloud.png" alt="AWS Academy Cloud Foundations" width="200px" style="margin: 25px;"/>  
   <img src="certificates/azure.png" alt="Azure Certification" width="200px" style="margin: 15px;"/>  
   <img src="certificates/microsoft.png" alt="Microsoft SC-900" width="200px" style="margin: 15px;"/>  
-  <img src="certificates/backend.png" alt="Google Backend Developer" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/backend.png" alt="Google Backend Developer" width="200px" style="margin: 15px;"/> 
   <img src="certificates/java.png" alt="Java Certification" width="200px" style="margin: 15px;"/>  
   <img src="certificates/fortinet.png" alt="Fortinet NSE 1-4" width="200px" style="margin: 15px;"/>  
+
+  <img src="certificates/Amazon.PNG" alt="Amazon" width="200px" style="margin: 20px;"/>
+  <img src="certificates/huawei.png" alt="Huawei" width="200px" style="margin: 15px;"/>
+  
 </p>  
 
  🎖️
