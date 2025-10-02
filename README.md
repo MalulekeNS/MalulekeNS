@@ -53,15 +53,15 @@
 
 <p align="center">  
   <a href="documents/as_is_report.pdf"><img src="documents/as_is.png" alt="As-Is Report" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/to_be.pptx"><img src="documents/to_be.png" alt="To-Be Analysis" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/growth_plan.pptx"><img src="documents/growth_plan.png" alt="Growth Plan" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/gap_analysis.pptx"><img src="documents/gap_analysis.png" alt="Gap Analysis" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/market_analysis.pptx"><img src="documents/market_analysis.png" alt="Market Analysis" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/strategy.pptx"><img src="documents/strategy.png" alt="Company Strategy" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/roadmap.pptx"><img src="documents/roadmap.png" alt="Strategic Roadmap" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/business_plan.pptx"><img src="documents/business_plan.png" alt="Business Plan" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/financial_report.pptx"><img src="documents/financial_report.png" alt="Financial Report" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/credit_rating.pptx"><img src="documents/credit_rating.png" alt="Credit Rating Report" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/to_be.pdf"><img src="documents/to_be.png" alt="To-Be Analysis" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/growth_plan.pdf"><img src="documents/growth_plan.png" alt="Growth Plan" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/gap_analysis.pdf"><img src="documents/gap_analysis.png" alt="Gap Analysis" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/market_analysis.pdf"><img src="documents/market_analysis.png" alt="Market Analysis" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/strategy.pdf"><img src="documents/strategy.png" alt="Company Strategy" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/roadmap.pdf"><img src="documents/roadmap.png" alt="Strategic Roadmap" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/business_plan.pdf"><img src="documents/business_plan.png" alt="Business Plan" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/financial_report.pdf"><img src="documents/financial_report.png" alt="Financial Report" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/credit_rating.pdf"><img src="documents/credit_rating.png" alt="Credit Rating Report" width="200px" style="margin: 15px;"/></a>  
 </p>  
 
 ---
