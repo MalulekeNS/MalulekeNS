@@ -30,7 +30,19 @@
 - Database: **SQL | PHP | MariaDB | MongoDB | PostgreSQL | Firebase.**  
 - Deploying solutions and Intergration: **Linux | AWS | GCP | Cpanel.**
 
-### 🔹 Business Analyst 
+---
+
+## 📂 Featured Repositories  
+
+| [![Edupath](https://img.shields.io/badge/Edupath-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/EduPath/) | [![Salesforce](https://img.shields.io/badge/Salesforce-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/Salesforce/) | [![Spelete](https://img.shields.io/badge/Spelete-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/Spelete/) | [![AfricanBank](https://img.shields.io/badge/AfricanBank-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/AfricanBank_Programme/) |
+|---|---|---|---|
+| AI-powered Education platform | CRM automation & integration | Ecommerce online store | Financial dashboards & analytics |
+| 🔗 [Repo](https://github.com/MalulekeNS/EduPath) <br> 🌍 [Live](https://malulekens.github.io/EduPath/) | 🔗 [Repo](https://github.com/MalulekeNS/Salesforce) <br> 🌍 [Live](https://malulekens.github.io/Salesforce/) | 🔗 [Repo](https://github.com/MalulekeNS/Spelete) <br> 🌍 [Live](https://malulekens.github.io/Spelete/) | 🔗 [Repo](https://github.com/MalulekeNS/AfricanBank_Programme) <br> 🌍 [Live](https://malulekens.github.io/AfricanBank_Programme/) |
+
+
+---
+
+# Business Analyst  
 
 <p align="">  
   <img alt="Strategy" src="https://img.shields.io/badge/Strategy-0A66C2?style=for-the-badge&logo=target&logoColor=white&labelColor=101010"/>  
@@ -45,7 +57,7 @@
 <td valign="top">
 
 **From each Company or Client, we gather these documents:**  
-- Finance 
+- Finance  
 - Governance  
 - Compliance  
 - Operational  
@@ -78,31 +90,43 @@
 ### 📂 Company Documentation Showcase  
 - Click to View:
 <p align="center">
-  <a href="documents/as_is_report.pdf"><img class="hoverable" src="documents/as_is.png" alt="As-Is Report" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/to_be.pdf"><img class="hoverable" src="documents/to_be.png" alt="To-Be Analysis" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/growth_plan.pdf"><img class="hoverable" src="documents/growth_plan.png" alt="Growth Plan" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/gap_analysis.pdf"><img class="hoverable" src="documents/gap_analysis.png" alt="Gap Analysis" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/market_analysis.pdf"><img class="hoverable" src="documents/market_analysis.png" alt="Market Analysis" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/strategy.pdf"><img class="hoverable" src="documents/strategy.png" alt="Company Strategy" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/roadmap.pdf"><img class="hoverable" src="documents/roadmap.png" alt="Strategic Roadmap" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/business_plan.pdf"><img class="hoverable" src="documents/business_plan.png" alt="Business Plan" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/financial_report.pdf"><img class="hoverable" src="documents/financial_report.png" alt="Financial Report" width="200px" style="margin: 15px;"/></a>  
-  <a href="documents/credit_rating.pdf"><img class="hoverable" src="documents/credit_rating.png" alt="Credit Rating Report" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/as_is_report.pdf"><img src="documents/as_is.png" alt="As-Is Report" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/to_be.pdf"><img src="documents/to_be.png" alt="To-Be Analysis" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/growth_plan.pdf"><img src="documents/growth_plan.png" alt="Growth Plan" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/gap_analysis.pdf"><img src="documents/gap_analysis.png" alt="Gap Analysis" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/market_analysis.pdf"><img src="documents/market_analysis.png" alt="Market Analysis" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/strategy.pdf"><img src="documents/strategy.png" alt="Company Strategy" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/roadmap.pdf"><img src="documents/roadmap.png" alt="Strategic Roadmap" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/business_plan.pdf"><img src="documents/business_plan.png" alt="Business Plan" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/financial_report.pdf"><img src="documents/financial_report.png" alt="Financial Report" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/credit_rating.pdf"><img src="documents/credit_rating.png" alt="Credit Rating Report" width="200px" style="margin: 15px;"/></a>  
 </p>  
 
 ---
 
 ## 🎓 Certifications  
-- To stay up-to-date with evolving and emerging current technologies, i enroll myself certifications:
+- To stay up-to-date with evolving and emerging current technologies, I enroll myself certifications:
 
 <p align="center">  
-  <a href="certificates/cloud.pdf"><img class="hoverable" src="certificates/cloud.png" alt="AWS Academy Cloud Foundations" width="200px" style="margin: 25px;"/></a>  
-  <a href="certificates/azure.pdf"><img class="hoverable" src="certificates/azure.png" alt="Azure Certification" width="200px" style="margin: 15px;"/></a>  
-  <a href="certificates/microsoft.pdf"><img class="hoverable" src="certificates/microsoft.png" alt="Microsoft SC-900" width="200px" style="margin: 15px;"/></a>  
-  <a href="certificates/backend.pdf"><img class="hoverable" src="certificates/backend.png" alt="Google Backend Developer" width="200px" style="margin: 15px;"/></a> 
-  <a href="certificates/java.pdf"><img class="hoverable" src="certificates/java.png" alt="Java Certification" width="200px" style="margin: 15px;"/></a>  
-  <a href="certificates/fortinet.pdf"><img class="hoverable" src="certificates/fortinet.png" alt="Fortinet NSE 1-4" width="200px" style="margin: 15px;"/></a>  
-  <!-- Add the rest in the same pattern -->  
+  <img src="certificates/cloud.png" alt="AWS Academy Cloud Foundations" width="200px" style="margin: 25px;"/>  
+  <img src="certificates/azure.png" alt="Azure Certification" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/microsoft.png" alt="Microsoft SC-900" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/backend.png" alt="Google Backend Developer" width="200px" style="margin: 15px;"/> 
+  <img src="certificates/java.png" alt="Java Certification" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/fortinet.png" alt="Fortinet NSE 1-4" width="200px" style="margin: 15px;"/>  
+  <img src="certificates/Amazon.PNG" alt="Amazon" width="200px" style="margin: 20px;"/>
+  <img src="certificates/huawei.png" alt="Huawei" width="200px" style="margin: 15px;"/>
+  <img src="certificates/NSE1.png" alt="NSE" width="200px" style="margin: 15px;"/>
+  <img src="certificates/NSE2.png" alt="NSE" width="200px" style="margin: 15px;"/>
+  <img src="certificates/NSE3.png" alt="NSE" width="200px" style="margin: 15px;"/>
+  <img src="certificates/EWB.jpg" alt="EWB" width="200px" style="margin: 15px;"/>
+  <img src="certificates/AWS-APN.png" alt="AWS" width="200px" style="margin: 15px;"/>
+  <img src="certificates/AWS-SECURITY.png" alt="AWS" width="200px" style="margin: 15px;"/>
+  <img src="certificates/AWS-Web-Services.png" alt="AWS" width="200px" style="margin: 15px;"/>
+  <img src="certificates/AWS-LEADS-ALIANCE.png" alt="AWS" width="200px" style="margin: 15px;"/>
+  <img src="certificates/php.png" alt="PHP" width="200px" style="margin: 15px;"/>
+  <img src="certificates/front-end.png" alt="DevTown" width="200px" style="margin: 15px;"/>
+  <img src="certificates/cyber.jpg" alt="Cybersecurity" width="200px" style="margin: 15px;"/>
 </p>  
 
  🎖️
@@ -115,7 +139,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MalulekeNS&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalulekeNS&layout=compact&theme=tokyonight" alt="Top Languages"/>  
 </p>  
-
----
-
-<!-- Hover Styling -->
