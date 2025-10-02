@@ -34,6 +34,16 @@
 
   <img src="certificates/Amazon.PNG" alt="Amazon" width="200px" style="margin: 20px;"/>
   <img src="certificates/huawei.png" alt="Huawei" width="200px" style="margin: 15px;"/>
+  <img src="certificates/NSE1.png" alt="NSE" width="200px" style="margin: 15px;"/>
+  <img src="certificates/NSE2.png" alt="NSE" width="200px" style="margin: 15px;"/>
+  <img src="certificates/NSE3.png" alt="NSE" width="200px" style="margin: 15px;"/>
+  <img src="certificates/EWB.jpg" alt="EWB" width="200px" style="margin: 15px;"/>
+  <img src="certificates/AWS-APN.png" alt="AWS" width="200px" style="margin: 15px;"/>
+  <img src="certificates/AWS-SECURITY.png" alt="AWS" width="200px" style="margin: 15px;"/>
+  <img src="certificates/AWS-Web-Services.png" alt="AWS" width="200px" style="margin: 15px;"/>
+  <img src="certificates/AWS-LEADS-ALIANCE.png" alt="AWS" width="200px" style="margin: 15px;"/>
+  <img src="certificates/php.png" alt="PHP" width="200px" style="margin: 15px;"/>
+  <img src="certificates/front-end.png" alt="DevTown" width="200px" style="margin: 15px;"/>
   
 </p>  
 
