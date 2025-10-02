@@ -24,13 +24,13 @@
 
 ## 💼 Professional Experience  
 
-### 🔹 Full Stack Development  
-- Designing and building scalable web applications using **Java, C#, Python, PHP, React, Node.js, and Spring Boot**.  
-- Developing secure APIs and backend systems with **PostgreSQL, Firebase, and cloud platforms (AWS & GCP)**.  
-- Implementing responsive, mobile-friendly UI/UX with **HTML5, CSS3, and JavaScript frameworks**.  
-- Deploying solutions on **Linux-based environments** with CI/CD pipelines for efficient delivery.  
+### 🔹 Full Stack Developer 
+- Back-End: **Java | C# | Python | PHP | Node.js | Spring Boot.**
+- Front-End: **HTML5 | CSS3 | JavaScript | React.js | Tailwind | Typescript | Bootstrap frameworks.**
+- Database: **SQL | PHP | MariaDB | MongoDB | PostgreSQL | Firebase.**  
+- Deploying solutions and Intergration: **Linux | AWS | GCP | Cpanel.**
 
-### 🔹 Business Strategy & Analysis (Additional Responsibilities)  
+### 🔹 Business Analyst 
 
 <p align="center">  
   <img alt="Strategy" src="https://img.shields.io/badge/Strategy-0A66C2?style=for-the-badge&logo=target&logoColor=white&labelColor=101010"/>  
@@ -46,6 +46,23 @@
 - Developing **Governance & Compliance frameworks** (risk registers, board charters, and policy suites).  
 - Designing **KPI dashboards and monitoring frameworks** to measure progress across Financial, Operational, IT, Market, and Governance domains.  
 - Producing professional reports that support **funding readiness, procurement eligibility, and investor confidence**.  
+
+---
+
+### 📂 Documents Showcase  
+
+<p align="center">  
+  <a href="documents/as_is_report.pdf"><img src="documents/as_is_report.png" alt="As-Is Report" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/to_be_analysis.pdf"><img src="documents/to_be_analysis.png" alt="To-Be Analysis" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/growth_plan.pdf"><img src="documents/growth_plan.png" alt="Growth Plan" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/gap_analysis.pdf"><img src="documents/gap_analysis.png" alt="Gap Analysis" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/market_analysis.pdf"><img src="documents/market_analysis.png" alt="Market Analysis" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/strategy.pdf"><img src="documents/strategy.png" alt="Company Strategy" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/roadmap.pdf"><img src="documents/roadmap.png" alt="Strategic Roadmap" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/business_plan.pdf"><img src="documents/business_plan.png" alt="Business Plan" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/financial_report.pdf"><img src="documents/financial_report.png" alt="Financial Report" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/credit_rating.pdf"><img src="documents/credit_rating.png" alt="Credit Rating Report" width="200px" style="margin: 15px;"/></a>  
+</p>  
 
 ---
 
