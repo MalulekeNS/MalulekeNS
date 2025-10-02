@@ -22,6 +22,33 @@
 
 ---
 
+## 💼 Professional Experience  
+
+### 🔹 Full Stack Development  
+- Designing and building scalable web applications using **Java, C#, Python, PHP, React, Node.js, and Spring Boot**.  
+- Developing secure APIs and backend systems with **PostgreSQL, Firebase, and cloud platforms (AWS & GCP)**.  
+- Implementing responsive, mobile-friendly UI/UX with **HTML5, CSS3, and JavaScript frameworks**.  
+- Deploying solutions on **Linux-based environments** with CI/CD pipelines for efficient delivery.  
+
+### 🔹 Business Strategy & Analysis (Additional Responsibilities)  
+
+<p align="center">  
+  <img alt="Strategy" src="https://img.shields.io/badge/Strategy-0A66C2?style=for-the-badge&logo=target&logoColor=white&labelColor=101010"/>  
+  <img alt="Business Analysis" src="https://img.shields.io/badge/Business_Analysis-239120?style=for-the-badge&logo=google-analytics&logoColor=white&labelColor=101010"/>  
+  <img alt="Market Research" src="https://img.shields.io/badge/Market_Research-F7DF1E?style=for-the-badge&logo=databricks&logoColor=black&labelColor=101010"/>  
+  <img alt="Governance" src="https://img.shields.io/badge/Governance-6DB33F?style=for-the-badge&logo=matrix&logoColor=white&labelColor=101010"/>  
+  <img alt="Compliance" src="https://img.shields.io/badge/Compliance-FF5733?style=for-the-badge&logo=security&logoColor=white&labelColor=101010"/>  
+</p>  
+
+- Conducting **As-Is and To-Be Analyses** to identify operational, financial, and governance gaps.  
+- Preparing **Growth Plans, Strategic Roadmaps, and Gap Analyses** to guide institutional readiness.  
+- Leading **Market Analysis & Business Planning**, including customer segmentation, GTM strategy, and investor-facing reports.  
+- Developing **Governance & Compliance frameworks** (risk registers, board charters, and policy suites).  
+- Designing **KPI dashboards and monitoring frameworks** to measure progress across Financial, Operational, IT, Market, and Governance domains.  
+- Producing professional reports that support **funding readiness, procurement eligibility, and investor confidence**.  
+
+---
+
 ## 🎓 Certifications  
 
 <p align="center">  
@@ -45,7 +72,6 @@
   <img src="certificates/php.png" alt="PHP" width="200px" style="margin: 15px;"/>
   <img src="certificates/front-end.png" alt="DevTown" width="200px" style="margin: 15px;"/>
   <img src="certificates/cyber.jpg" alt="Cybersecurity" width="200px" style="margin: 15px;"/>
-  
 </p>  
 
  🎖️
