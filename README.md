@@ -22,8 +22,6 @@
 
 ---
 
-## 💼 Professional Experience  
-
 ### 🔹 Full Stack Developer 
 - Back-End:  **Java  |  C#  |  Python  |  PHP  |  Node.js  |  Spring Boot.**
 - Front-End: **HTML5 | CSS3 | JavaScript | React.js | Tailwind | Typescript | Bootstrap frameworks.**
