@@ -52,7 +52,7 @@
 ### 📂 Documents Showcase  
 
 <p align="center">  
-  <a href="documents/as_is_report.pdf"><img src="documents/as_is_report.png" alt="As-Is Report" width="200px" style="margin: 15px;"/></a>  
+  <a href="documents/as_is_report.pdf"><img src="documents/as_is.png" alt="As-Is Report" width="200px" style="margin: 15px;"/></a>  
   <a href="documents/to_be.pptx"><img src="documents/to_be_analysis.png" alt="To-Be Analysis" width="200px" style="margin: 15px;"/></a>  
   <a href="documents/growth_plan.pptx"><img src="documents/growth_plan.png" alt="Growth Plan" width="200px" style="margin: 15px;"/></a>  
   <a href="documents/gap_analysis.pptx"><img src="documents/gap_analysis.png" alt="Gap Analysis" width="200px" style="margin: 15px;"/></a>  
