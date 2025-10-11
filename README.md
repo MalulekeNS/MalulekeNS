@@ -1,6 +1,6 @@
 # FULL STACK DEVELOPER  
 
-## 🧰 Languages and Tools  
+## 🧰 Languages  
 
 <p align="center">  
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
@@ -30,7 +30,7 @@
 
 ---
 
-## 📂 Famous Projects  
+## 📂 Top Projects  
 
 | [![Edupath](https://img.shields.io/badge/Edupath-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/EduPath/) | [![Salesforce](https://img.shields.io/badge/Salesforce-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/Salesforce/) | [![Spelete](https://img.shields.io/badge/Spelete-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/Spelete/) | [![AfricanBank](https://img.shields.io/badge/AfricanBank-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://malulekens.github.io/AfricanBank_Programme/) |
 |---|---|---|---|
