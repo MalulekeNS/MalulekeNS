@@ -23,7 +23,7 @@
 ---
 
 ### 🔹 Full Stack Developer 
-- Back-End:  **Java  |  C#  |  Python  |  PHP  |  Node.js  |  Spring Boot.**
+- Back-End:  **Java  |  C#  |  Python  |  PHP  |  Node.js  |  Spring Boot | C++.**
 - Front-End: **HTML5 | CSS3 | JavaScript | React.js | Tailwind | Typescript | Bootstrap frameworks.**
 - Database: **SQL | PHP | MariaDB | MongoDB | PostgreSQL | Firebase.**  
 - Deploying solutions and Intergration: **Linux | AWS | GCP | Cpanel.**
