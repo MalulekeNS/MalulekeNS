@@ -85,7 +85,7 @@
 
 ---
 
-### 📂 Business Analysis Sample documents  
+### 📂 Business Analysis Sample documents Examples 
 - Click to View:
 <p align="center">
   <a href="documents/as_is_report.pdf"><img src="documents/as_is.png" alt="As-Is Report" width="200px" style="margin: 15px;"/></a>  
