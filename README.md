@@ -125,6 +125,7 @@
   <img src="certificates/php.png" alt="PHP" width="200px" style="margin: 15px;"/>
   <img src="certificates/front-end.png" alt="DevTown" width="200px" style="margin: 15px;"/>
   <img src="certificates/cyber.jpg" alt="Cybersecurity" width="200px" style="margin: 15px;"/>
+  <img src="certificates/python.png" alt="Python" width="200px" style="margin: 15px;"/>
 </p>  
 
  🎖️
