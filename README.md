@@ -101,6 +101,43 @@
 </p>  
 
 ---
+## 🧮 Funding Readiness Scorecard
+
+The Funding Readiness Scorecard provides an over view for the decision:
+
+### 📊 Assessment Domains
+
+| Domain | Focus Area | Readiness Indicator |
+|------|-----------|--------------------|
+| **Financial Readiness** | Budgeting, financial controls, projections, audit preparedness | 🔵 High / 🟡 Medium / 🔴 Low |
+| **Governance & Leadership** | Board structure, decision authority, policies, accountability | 🔵 High / 🟡 Medium / 🔴 Low |
+| **Operational Capacity** | SOPs, delivery consistency, scalability, performance tracking | 🔵 High / 🟡 Medium / 🔴 Low |
+| **Market Position** | Demand validation, customers, traction, competitive positioning | 🔵 High / 🟡 Medium / 🔴 Low |
+| **IT & Digital Enablement** | Systems usage, data integrity, cybersecurity, automation | 🔵 High / 🟡 Medium / 🔴 Low |
+| **Compliance & Legal** | Regulatory alignment, contracts, risk exposure | 🔵 High / 🟡 Medium / 🔴 Low |
+
+---
+
+### 🏦 Overall Funding Readiness Classification
+
+| Classification | Description |
+|---------------|------------|
+| **Funding Ready** | Institutionally sound, suitable for immediate funding consideration |
+| **Conditionally Ready** | Viable with targeted remediation actions |
+| **Not Funding Ready** | High institutional risk; requires material system development |
+
+---
+
+### 📈 Portfolio Summary View
+
+| Company | Financial | Governance | Operations | Market | IT | Compliance | Overall Status |
+|-------|----------|------------|------------|--------|----|-----------|----------------|
+| Company A | 4 | 3 | 4 | 4 | 3 | 4 | Conditionally Ready |
+| Company B | 5 | 4 | 5 | 4 | 4 | 5 | Funding Ready |
+| Company C | 2 | 2 | 3 | 3 | 2 | 2 | Not Funding Ready |
+| Company D | 4 | 3 | 3 | 2 | 3 | 3 | Conditionally Ready |
+
+---
 
 ## 🎓 Certifications  
 - To stay up-to-date with evolving emerging current technologies, I enroll myself certifications:
