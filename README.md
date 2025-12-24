@@ -130,13 +130,17 @@
 
  🎖️
 
----
+--- 
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=MalulekeNS&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalulekeNS&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</p>  
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalulekeNS&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalulekeNS&layout=compact&theme=tokyonight)
+
+</div>
+
+
 
 <img src="https://t.bkit.co/w_68f6c1cb4e129.gif" />
